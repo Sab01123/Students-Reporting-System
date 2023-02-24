@@ -32,7 +32,7 @@ spring.mvc.view.prefix = /views/
 elasticsearch.host=localhost
 elasticsearch.port=9200
 
-elasticsearch.clustername=Varsha
+elasticsearch.clustername=Sabira
 spring.data.elasticsearch.cluster-nodes=localhost:9300
 spring.data.elasticsearch.repositories.enabled=true
 ```
